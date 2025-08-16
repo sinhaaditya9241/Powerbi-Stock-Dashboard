@@ -1,4 +1,4 @@
-# 📊 Stock Market Dashboard with Power BI & Python
+# 📊 Stock Market analysis using Python
 
 This project is a fully functional stock market analytics dashboard built using **Power BI**, combined with **Python automation** to fetch stock data from Yahoo Finance via the `yfinance` library. It is designed to showcase financial data storytelling, key technical indicators, and interactive visuals.
 
